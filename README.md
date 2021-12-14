@@ -1,4 +1,4 @@
-| Members | Position | [GitHub]() |
+| Members | Position | [GitHub](https://github.com/shohinsan/sjsu_cs_151) |
 | ----------- | ----------- | ----------- |
 | Spartak Gevorgyan | Lead Software Engineer | [artak10t](https://github.com/artak10t) | 
 | Shohin Abdulkhamidov | Software Engineer | [shohinsan](https://github.com/shohinsan) |
